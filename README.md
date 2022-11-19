@@ -1,5 +1,5 @@
 - Hi, I’m @SswitchCal
-- I’m interested in online store sites
+- I’m interested in creating online stores site
 - I’m currently learning github 
 - I’m looking to collaborate on new knowledge 
 - 📫 How to reach me ayenigbas@gmail.com
